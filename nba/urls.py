@@ -18,6 +18,7 @@ from django.contrib import admin
 
 urlpatterns = [
      url(r'^nbasite/', include('nbasite.urls')),
+     url(r'^machine_learning/', include('machine_learning.urls')),
      url(r'^admin/', admin.site.urls),
      url(r'^nbasite/', include('nbasite.urls'))
 ]
