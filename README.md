@@ -1,3 +1,3 @@
 # NBASite
-Just a small side-project. Utilizes nba_py to grab all data. Django+Bootsrap used. Incomplete. 
+Basketball-reference clone written for fun. Utilizes nba_py to grab all data. Django+Bootsrap used.
 
